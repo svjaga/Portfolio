@@ -33,7 +33,9 @@ class Splash extends Component {
     return this.state.redirect ? (
       <Redirect to="/home" />
     ) : (
-      <AnimatedSplash theme={this.props.theme} />
+      <>
+      </>
+      // <AnimatedSplash theme={this.props.theme} />
     );
   }
 }
