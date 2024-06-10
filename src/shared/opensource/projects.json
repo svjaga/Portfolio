@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "id": "22yards",
+      "name": "22yards",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "",
+      "descriptions": [
+        "⚡ Developed a web application leveraging React.js and Next.js, providing users with the ability to register as players, umpires, scorers, and more.",
+        "⚡ Empowered players to create matches, reserve grounds, and book umpires and scorers for matches.",
+        "⚡ Implemented features allowing users to view match scores, histories, and rankings.",
+        "⚡ Enabled players to initiate tournaments and establish groups among teams."
+      ],
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React Js",
+          "iconifyClass": "simple-icons:react"
+        }
+      ]
+    },
+    {
+      "id": "The_Retail_Curator",
+      "name": "The Retail Curator",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "",
+      "descriptions": [
+        "⚡ This website caters to sellers looking to expand their online presence. Sellers purchase products from wholesale retailers and easily upload product details to multiple websites with just one click.",
+        "⚡ The admin portal, developed using React, provides seamless management of product uploads and other administrative tasks, streamlining the selling process for sellers and enhancing efficiency."
+      ],
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React Js",
+          "iconifyClass": "simple-icons:react"
+        }
+      ]
+    },
+    {
+      "id": "Reapmor",
+      "name": "Reapmor",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "",
+      "descriptions": [
+        "⚡ Developed a comprehensive solution bridging the gap between farmers and wholesale buyers.",
+        "⚡ Farmers can easily list their produce on the platform with detailed descriptions, photos, quantities, and prices.",
+        "⚡ They also have the option to update availability in real time, ensuring accurate and up-to-date information for buyers.",
+        "⚡ I have created a web portal using React.js for efficient management of sellers, seeds, farmer profiles, and financing advances.",
+        "⚡ This centralized platform enables seamless administration of various aspects of the agricultural supply chain, enhancing transparency and facilitating smoother transactions between farmers and wholesalers.",
+        "⚡ For mobile access, a React Native app was developed, providing farmers and buyers with a user-friendly interface to access the platform's features on the go."
+      ],
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React Native",
+          "iconifyClass": "simple-icons:react"
+        }
+      ]
+    },
+    {
+      "id": "Freshpiks",
+      "name": "Freshpiks",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "",
+      "descriptions": [
+        "⚡ Developed an e-commerce application catering to wholesale vegetable buyers. Customers can easily browse and add vegetables to their cart, with options to adjust quantities.",
+        "⚡ The mobile app, built with Ionic, enables customers to easily add, remove, and update quantities in their carts, with automatic calculation of total price, discounts, and delivery charges.",
+        "⚡ The Angular-based web portal centralizes product management, quantities, and pricing for efficient inventory control and decision-making."
+      ],
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "simple-icons:angular"
+        },
+        {
+          "name": "Ionic",
+          "imageSrc": "ionic.png"
+        }
+      ]
+    },
+    {
+      "id": "Yumelabs",
+      "name": "Yumelabs",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "",
+      "descriptions": [
+        "⚡ I led the development of a high-performance, SEO-friendly website using Next.js, enhanced with engaging animations powered by GreenSock (GSAP).",
+        "⚡ The site will feature dynamic content and a seamless user experience, optimized for search engines and responsive across devices.",
+        "⚡ Server-side rendering (SSR) and static site generation (SSG) to improve search engine visibility. Use the next/head component for custom meta tags per page."
+      ],
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next js",
+          "iconifyClass": "logos:nextjs",
+          "style": {
+            "height": "50px",
+            "width": "100px",
+            "color": "#339933"
+          }
+        }
+      ]
+    }
+  ]
+}
