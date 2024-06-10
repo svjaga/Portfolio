@@ -4,6 +4,12 @@ class FeelingProud extends Component {
   render() {
     const theme = this.props.theme;
     return (
+              // <img style={{borderRadius:'10px'}}
+    //   className=""
+    //   src={require(`../../assests/images/hero-my.jpg`)}
+    //   alt=""
+    // />
+
       <svg
         id="b52d7e2d-d80f-4111-b6ed-d15502ee1edd"
         data-name="Layer 1"
